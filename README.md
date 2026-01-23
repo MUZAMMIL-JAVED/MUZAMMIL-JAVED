@@ -270,10 +270,6 @@ An **AI-powered web application** that detects diseases in tomato plants using C
   <img src="https://github-profile-trophy.vercel.app/?username=MUZAMMIL-JAVED&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUZAMMIL-JAVED&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=6366F1&line=22D3EE&point=FFFFFF&area=true&area_color=6366F1" alt="Contribution Graph" width="100%"/>
-</p>
-
 ---
 
 ## 🤝 Let's Collaborate!
